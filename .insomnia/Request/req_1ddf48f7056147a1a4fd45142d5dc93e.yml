@@ -1,0 +1,32 @@
+_id: req_1ddf48f7056147a1a4fd45142d5dc93e
+type: Request
+parentId: fld_1707863c538d4ead87b076081170dd6d
+modified: 1696791889845
+created: 1696789865371
+url: http://localhost:3000/movie
+name: CREATE MOVIE
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "NOME DO FILME",
+    	"year": "ANO DO FILME",
+    	"genreId": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1696789865371
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

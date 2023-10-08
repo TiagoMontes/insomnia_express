@@ -1,0 +1,30 @@
+_id: req_91fcbce0a4994d25a4356c930b56cc04
+type: Request
+parentId: fld_bc71e1a0e8f0409f87b07341004fbc20
+modified: 1696790285953
+created: 1696790031832
+url: http://localhost:3000/genre
+name: CREATE GENRE
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"genre": "NOME DO GENERO2"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1696790031832
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

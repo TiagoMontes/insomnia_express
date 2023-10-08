@@ -1,0 +1,23 @@
+_id: req_e690a040b3de4f74964773aeae2d417c
+type: Request
+parentId: fld_1707863c538d4ead87b076081170dd6d
+modified: 1696791898140
+created: 1696790794729
+url: http://localhost:3000/movie/20
+name: DELETE SPECIFIC MOVIE
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1696789865471
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,23 @@
+_id: req_89ff642f3e9143a094e954237c393a39
+type: Request
+parentId: fld_1707863c538d4ead87b076081170dd6d
+modified: 1696792286533
+created: 1696789771178
+url: http://localhost:3000/movie
+name: GET ALL MOVIES
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1696789771178
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

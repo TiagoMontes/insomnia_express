@@ -1,0 +1,23 @@
+_id: req_6baf72fb44fc4ba0bd7afc262a11cf36
+type: Request
+parentId: fld_bc71e1a0e8f0409f87b07341004fbc20
+modified: 1696792288846
+created: 1696790005990
+url: http://localhost:3000/genre
+name: GET ALL GENRES
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1696790014385
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
